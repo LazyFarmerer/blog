@@ -9,14 +9,14 @@ main:
 
 docs:
   - title: "목차 1"
-    - children:
+    children:
       - title: "카테고리"
         url: /categories/
       - title: "태그"
         url: /tags/
 
   - title: "기타"
-    - children:
+    children:
       - title: "검색"
         url: /serch/
 
