@@ -5,7 +5,7 @@ main:
   - title: "태그"
     url: /tags/
   - title: "검색"
-    url: /serch/
+    url: /search/
 
 docs:
   - title: "목차 1"
