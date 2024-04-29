@@ -1,4 +1,4 @@
-{% assign navigation = site.data.navigation[include.nav] %}
+<!-- {% assign navigation = site.data.navigation[include.nav] %}
 
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
@@ -56,13 +56,13 @@
     {% endif %}
   {% endif %}
 </nav>
+ -->
 
 
 
 
 
-
-<!-- {% assign navigation = site.data.navigation[include.nav] %}
+{% assign navigation = site.data.navigation[include.nav] %}
 
 {% assign categories_max = 0 %}
 {% for category in site.categories %}
@@ -120,7 +120,7 @@
     </li>
   </ul>
   {% endif %}
-</nav> -->
+</nav>
 
 
 
