@@ -59,6 +59,10 @@ $base0f: #cc6633 !default;
   color: $text-color;
   background-color: $primary-color;
   border-color: transparent;
+  // 추가
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
 
   &:visited {
     color: $text-color;
