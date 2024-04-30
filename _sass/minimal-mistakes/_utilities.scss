@@ -595,3 +595,9 @@ a.reversefootnote {
 .image-width-half {
   width: 50%;
 }
+
+.my-ellipsis {
+  overflow: hidden;
+  text-overflow:ellipsis;
+  white-space: nowrap;
+}
