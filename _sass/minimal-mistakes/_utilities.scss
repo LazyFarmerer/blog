@@ -592,8 +592,8 @@ a.reversefootnote {
   }
 }
 
-.image-width-half {
-  width: 50%;
+.image-width-half > img {
+  width: 49%;
 }
 
 .my-ellipsis {
